@@ -1,0 +1,11 @@
+C:\Users\filip\Desktop\ATIVIDADE DE HERANCA\ATIVIDADE DE HERANCA\bin\Debug\netcoreapp3.1\ATIVIDADE DE HERANCA.exe
+C:\Users\filip\Desktop\ATIVIDADE DE HERANCA\ATIVIDADE DE HERANCA\bin\Debug\netcoreapp3.1\ATIVIDADE DE HERANCA.deps.json
+C:\Users\filip\Desktop\ATIVIDADE DE HERANCA\ATIVIDADE DE HERANCA\bin\Debug\netcoreapp3.1\ATIVIDADE DE HERANCA.runtimeconfig.json
+C:\Users\filip\Desktop\ATIVIDADE DE HERANCA\ATIVIDADE DE HERANCA\bin\Debug\netcoreapp3.1\ATIVIDADE DE HERANCA.runtimeconfig.dev.json
+C:\Users\filip\Desktop\ATIVIDADE DE HERANCA\ATIVIDADE DE HERANCA\bin\Debug\netcoreapp3.1\ATIVIDADE DE HERANCA.dll
+C:\Users\filip\Desktop\ATIVIDADE DE HERANCA\ATIVIDADE DE HERANCA\bin\Debug\netcoreapp3.1\ATIVIDADE DE HERANCA.pdb
+C:\Users\filip\Desktop\ATIVIDADE DE HERANCA\ATIVIDADE DE HERANCA\obj\Debug\netcoreapp3.1\ATIVIDADE DE HERANCA.csprojAssemblyReference.cache
+C:\Users\filip\Desktop\ATIVIDADE DE HERANCA\ATIVIDADE DE HERANCA\obj\Debug\netcoreapp3.1\ATIVIDADE DE HERANCA.AssemblyInfoInputs.cache
+C:\Users\filip\Desktop\ATIVIDADE DE HERANCA\ATIVIDADE DE HERANCA\obj\Debug\netcoreapp3.1\ATIVIDADE DE HERANCA.AssemblyInfo.cs
+C:\Users\filip\Desktop\ATIVIDADE DE HERANCA\ATIVIDADE DE HERANCA\obj\Debug\netcoreapp3.1\ATIVIDADE DE HERANCA.dll
+C:\Users\filip\Desktop\ATIVIDADE DE HERANCA\ATIVIDADE DE HERANCA\obj\Debug\netcoreapp3.1\ATIVIDADE DE HERANCA.pdb

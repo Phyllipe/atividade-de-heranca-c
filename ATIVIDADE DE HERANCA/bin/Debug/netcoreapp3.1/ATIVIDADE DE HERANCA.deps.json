@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ATIVIDADE DE HERANCA/1.0.0": {
+        "runtime": {
+          "ATIVIDADE DE HERANCA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ATIVIDADE DE HERANCA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
